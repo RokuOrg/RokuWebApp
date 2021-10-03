@@ -1,0 +1,202 @@
+.center-page{
+    height: 100%;
+    position: relative;
+}
+
+.center-item{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -100%);
+    line-height: 10px;
+    text-align: center;
+}
+/* fieldgroup-82 dark-theme textfield */
+.fieldGroup-82{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-81{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-83{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-84{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-85{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-86{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-95{
+    height: 3.5vh;
+}
+
+.fieldGroup-96{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-96:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-86:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-85:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-84:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-83:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-97{
+    border: 1px solid #bb86fc;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-97:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-82:hover{
+    border: 1px solid #ddb5ff;
+}
+
+.fieldGroup-81:hover{
+    border: 1px solid #ddb5ff;
+}
+
+/* fieldgroup-106 light-theme textfield */
+.fieldGroup-104{
+    border: 1px solid #9742ff;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-104:hover{
+    border: 1px solid #8519ff;
+}
+
+.fieldGroup-105{
+    border: 1px solid #9742ff;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-105:hover{
+    border: 1px solid #8519ff;
+}
+
+.fieldGroup-106{
+    border: 1px solid #9742ff;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-106:hover{
+    border: 1px solid #8519ff;
+}
+
+.fieldGroup-107{
+    border: 1px solid #9742ff;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-107:hover{
+    border: 1px solid #8519ff;
+}
+
+.fieldGroup-109{
+    border: 1px solid #9742ff;
+    border-radius: 3px;
+    height: 3.5vh;
+}
+
+.fieldGroup-109:hover{
+    border: 1px solid #8519ff;
+}
+
+
+.fieldGroup-114{
+    height: 3.5vh;
+}
+
+.fieldGroup-115{
+    height: 3.5vh;
+}
+
+.fieldGroup-116{
+    height: 3.5vh;
+}
+
+.fieldGroup-117{
+    height: 3.5vh;
+}
+
+.fieldGroup-118{
+    height: 3.5vh;
+}
+
+
+.fieldGroup-154{
+    height: 3.5vh;
+}
+
+.fieldGroup-155{
+    height: 3.5vh;
+}
+.fieldGroup-156{
+    height: 3.5vh;
+}
+.fieldGroup-157{
+    height: 3.5vh;
+}
+
+.root-72{
+    color: #bb86fc;
+}
+
+.root-72:hover{
+    color: #ddb5ff;
+}
+
+.root-101{
+    color: #9742ff;
+}
+
+.root-101:hover{
+    color: #8519ff;
+}
